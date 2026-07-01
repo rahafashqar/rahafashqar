@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="center">Hi 👋, I'm Rahaf Al-ashqar<br>Computer Engineering Graduate 💻 | Frontend Developer ⚙️</h3>
+<h3 data-importer="text" align="center">Hi, I'm Rahaf Al-ashqar 🤎 <br>Computer Engineering Graduate 💻 | Frontend Developer ⚙️</h3>
 
 ###
 
@@ -75,4 +75,4 @@
 
 ###
 
-<p data-importer="text" align="center">🤎سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ🤎</p>
+<p data-importer="text" align="center">🤎 سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ 🤎</p>
