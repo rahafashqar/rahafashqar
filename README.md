@@ -54,9 +54,3 @@
 <div align="center">
   <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB2aXJydGUxaXVtMmE5dW4zdGdxamk4MnAzeTA0Mno5eWp1c3V3diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rahafashqar/rahafashqar/output/snake.svg" alt="Snake animation" />
-
-###
