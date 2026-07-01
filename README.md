@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="center">Hi, I'm Rahaf Al-ashqar 🤎 <br>Computer Engineering Graduate 💻 | React Frontend Developer </h3>
+<h3 data-importer="text" align="center">Hi, I'm Rahaf Al-ashqar 🤎 <br>Computer Engineering Graduate | React Frontend Developer </h3>
 
 ###
 
